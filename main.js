@@ -1,6 +1,6 @@
 //object , arrays, arrays on object and nested object
 var user = {
-    firstName: "Faizan",
+    firstName: "Mohd Faizan",
     lastName: "Mehmood Ayaz",
     DateOfBirth: "18^th june , 1995",
     age: 31,
